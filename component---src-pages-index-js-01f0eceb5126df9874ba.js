@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),c=a.n(n),l=(a("Wbzz"),a("Bl7J")),o=a("vrFN");t.default=function(){return c.a.createElement(l.a,null,c.a.createElement(o.a,{title:"Home"}),c.a.createElement("h1",null,"POSIS"),c.a.createElement("p",null,"rocket fuel for memetic fashion"),c.a.createElement("a",{href:"mailto:contact@posis.io"},"contact us"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-01f0eceb5126df9874ba.js.map
